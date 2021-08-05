@@ -7,6 +7,14 @@ import org.springframework.stereotype.Component;
 import java.util.Arrays;
 import java.util.List;
 
+
+// Kommentar:
+//
+//
+//
+//
+//
+
 @Component
 public class SkillsRepository {
   Logger logger = LoggerFactory.getLogger(SkillsRepository.class);

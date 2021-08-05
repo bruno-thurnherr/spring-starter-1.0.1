@@ -5,6 +5,14 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+// Kommentar:
+//
+//
+//
+//
+//
+
 @Component("ascendingStringOrderImpl")
 public class AscendingStringOrderImpl implements Sortable<String> {
 

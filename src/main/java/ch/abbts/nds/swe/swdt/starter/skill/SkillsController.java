@@ -10,6 +10,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+// Kommentar:
+//
+//
+//
+//
+//
+
 @RestController
 @RequestMapping(path = "/skills")
 public class SkillsController {

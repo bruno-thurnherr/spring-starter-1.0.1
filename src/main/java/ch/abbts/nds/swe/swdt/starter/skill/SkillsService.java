@@ -5,6 +5,12 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
+// Kommentar:
+//
+//
+//
+//
+//
 @Component
 public class SkillsService {
 
